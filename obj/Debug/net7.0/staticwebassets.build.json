@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1T9QAj2niqWi8ex8JUh7m556y3h0o560KTVbuQBX5ts=",
+  "Source": "Phone_Number_Verification",
+  "BasePath": "_content/Phone_Number_Verification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
